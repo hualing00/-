@@ -1,0 +1,1710 @@
+{
+  "macroEvents": [
+    // ================ 宏1 (AE)GEGEGRG ================
+    {
+      "type": 0,
+      "keyCode": 65,
+      "time": 0
+    },
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 0
+    },
+    {
+      "type": 1,
+      "keyCode": 65,
+      "time": 333.33
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 333.33
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 333.33
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 666.67
+    },
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 666.67
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 1000
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 1000
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 1333.33
+    },
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 1333.33
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 1666.67
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 1666.67
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 2000
+    },
+    {
+      "type": 0,
+      "keyCode": 82,
+      "time": 2000
+    },
+    {
+      "type": 1,
+      "keyCode": 82,
+      "time": 2333.33
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 2333.33
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 2666.67
+    },
+
+    // ================ 宏2 (EM)GEGEG QW ================
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 2666.67
+    },
+    {
+      "type": 0,
+      "keyCode": 77,
+      "time": 2666.67
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 3000
+    },
+    {
+      "type": 1,
+      "keyCode": 77,
+      "time": 3000
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 3000
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 3333.33
+    },
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 3333.33
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 3666.67
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 3666.67
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 4000
+    },
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 4000
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 4333.33
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 4333.33
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 4666.67
+    },
+    {
+      "type": 0,
+      "keyCode": 81,
+      "time": 4666.67
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 5000
+    },
+    {
+      "type": 0,
+      "keyCode": 87,
+      "time": 5000
+    },
+    {
+      "type": 1,
+      "keyCode": 87,
+      "time": 5333.33
+    },
+
+    // ================ 宏3 (EN)GEGEGRG ================
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 5333.33
+    },
+    {
+      "type": 0,
+      "keyCode": 78,
+      "time": 5333.33
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 5666.67
+    },
+    {
+      "type": 1,
+      "keyCode": 78,
+      "time": 5666.67
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 5666.67
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 6000
+    },
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 6000
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 6333.33
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 6333.33
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 6666.67
+    },
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 6666.67
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 7000
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 7000
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 7333.33
+    },
+    {
+      "type": 0,
+      "keyCode": 82,
+      "time": 7333.33
+    },
+    {
+      "type": 1,
+      "keyCode": 82,
+      "time": 7666.67
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 7666.67
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 8000
+    },
+    //宏4
+    {
+      "type": 0,
+      "keyCode": 84,
+      "time": 8000
+    },
+    {
+      "type": 0,
+      "keyCode": 66,
+      "time": 8000
+    },
+    {
+      "type": 1,
+      "keyCode": 84,
+      "time": 8333.33
+    },
+    {
+      "type": 1,
+      "keyCode": 66,
+      "time": 8333.33
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 8333.33
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 8666.67
+    },
+    {
+      "type": 0,
+      "keyCode": 82,
+      "time": 8666.67
+    },
+    {
+      "type": 1,
+      "keyCode": 82,
+      "time": 9000
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 9000
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 9333.33
+    },
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 9333.33
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 9666.67
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 9666.67
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 10000
+    },
+    {
+      "type": 0,
+      "keyCode": 87,
+      "time": 10000
+    },
+    {
+      "type": 1,
+      "keyCode": 87,
+      "time": 10333.33
+    },
+    {
+      "type": 0,
+      "keyCode": 0,
+      "time": 15500
+    },
+    {
+      "type": 1,
+      "keyCode": 0,
+      "time": 16000
+    },
+    //宏5
+    {
+      "type": 0,
+      "keyCode": 81,
+      "time": 16000
+    },
+    {
+      "type": 0,
+      "keyCode": 86,
+      "time": 16000
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 16500
+    },
+    {
+      "type": 1,
+      "keyCode": 86,
+      "time": 16500
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 16500
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 17000
+    },
+    {
+      "type": 0,
+      "keyCode": 81,
+      "time": 17000
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 17500
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 17500
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 18000
+    },
+    {
+      "type": 0,
+      "keyCode": 81,
+      "time": 18000
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 18500
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 18500
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 19000
+    },
+    {
+      "type": 0,
+      "keyCode": 87,
+      "time": 19000
+    },
+    {
+      "type": 1,
+      "keyCode": 87,
+      "time": 19500
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 19500
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 20000
+    },
+    //宏6
+    {
+      "type": 0,
+      "keyCode": 81,
+      "time": 20000
+    },
+    {
+      "type": 0,
+      "keyCode": 67,
+      "time": 20000
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 20500
+    },
+    {
+      "type": 1,
+      "keyCode": 67,
+      "time": 20500
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 20500
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 21000
+    },
+    {
+      "type": 0,
+      "keyCode": 81,
+      "time": 21000
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 21500
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 21500
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 22000
+    },
+    {
+      "type": 0,
+      "keyCode": 81,
+      "time": 22000
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 22500
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 22500
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 23000
+    },
+    {
+      "type": 0,
+      "keyCode": 84,
+      "time": 23000
+    },
+    {
+      "type": 1,
+      "keyCode": 84,
+      "time": 23500
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 23500
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 24000
+    },
+
+    //宏7
+    { //Q
+      "type": 0,
+      "keyCode": 81,
+      "time": 24000
+    },
+    { //X
+      "type": 0,
+      "keyCode": 88,
+      "time": 24000
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 24500
+    },
+    {
+      "type": 1,
+      "keyCode": 88,
+      "time": 24500
+    },
+    { //G
+      "type": 0,
+      "keyCode": 71,
+      "time": 24500
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 25000
+    },
+    { //Q
+      "type": 0,
+      "keyCode": 81,
+      "time": 25000
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 25500
+    }, // Q (100ms)
+    {
+      "type": 0,
+      "keyCode": 87,
+      "time": 25500
+    },
+    {
+      "type": 1,
+      "keyCode": 87,
+      "time": 26000
+    }, // W (100ms)
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 26000
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 26500
+    }, // E (100ms)
+    {
+      "type": 0,
+      "keyCode": 87,
+      "time": 26500
+    },
+    {
+      "type": 1,
+      "keyCode": 87,
+      "time": 26650
+    }, // W (100ms)
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 26650
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 26800
+    }, // E (100ms)
+    {
+      "type": 0,
+      "keyCode": 87,
+      "time": 26800
+    },
+    {
+      "type": 1,
+      "keyCode": 87,
+      "time": 26950
+    }, // W (100ms)
+    {
+      "type": 0,
+      "keyCode": 81,
+      "time": 26950
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 27100
+    }, // Q (100ms)
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 27450
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 27950
+    },
+    //宏8
+    {
+      "type": 0,
+      "keyCode": 81,
+      "time": 27950
+    },
+    {
+      "type": 0,
+      "keyCode": 66,
+      "time": 27950
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 28450
+    },
+    {
+      "type": 1,
+      "keyCode": 66,
+      "time": 28450
+    },
+    { //G
+      "type": 0,
+      "keyCode": 71,
+      "time": 28450
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 28950
+    },
+    { //Q
+      "type": 0,
+      "keyCode": 81,
+      "time": 28950
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 29450
+    },
+    { //W
+      "type": 0,
+      "keyCode": 87,
+      "time": 29450
+    },
+    {
+      "type": 1,
+      "keyCode": 87,
+      "time": 29950
+    },
+    { //E
+      "type": 0,
+      "keyCode": 69,
+      "time": 29950
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 30450
+    },
+    { //W
+      "type": 0,
+      "keyCode": 87,
+      "time": 30450
+    },
+    {
+      "type": 1,
+      "keyCode": 87,
+      "time": 30600
+    },
+    { //E
+      "type": 0,
+      "keyCode": 69,
+      "time": 30600
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 30750
+    },
+    { //W
+      "type": 0,
+      "keyCode": 87,
+      "time": 30750
+    },
+    {
+      "type": 1,
+      "keyCode": 87,
+      "time": 30900
+    },
+    { //Q
+      "type": 0,
+      "keyCode": 81,
+      "time": 30900
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 31400
+    },
+    { //W
+      "type": 0,
+      "keyCode": 87,
+      "time": 31400
+    },
+    {
+      "type": 1,
+      "keyCode": 87,
+      "time": 31900
+    },
+
+    //宏9
+    {
+      "type": 0,
+      "keyCode": 65,
+      "time": 31900
+    },
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 31900
+    },
+    {
+      "type": 1,
+      "keyCode": 65,
+      "time": 32400
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 32400
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 32400
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 32900
+    },
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 32900
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 33400
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 33400
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 33900
+    },
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 33900
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 34400
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 34400
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 34900
+    },
+    {
+      "type": 0,
+      "keyCode": 82,
+      "time": 34900
+    },
+    {
+      "type": 1,
+      "keyCode": 82,
+      "time": 35400
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 35400
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 35900
+    },
+    //宏10
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 35900
+    },
+    {
+      "type": 0,
+      "keyCode": 77,
+      "time": 35900
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 36400
+    },
+    {
+      "type": 1,
+      "keyCode": 77,
+      "time": 36400
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 36400
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 36900
+    },
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 36900
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 37400
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 37400
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 37900
+    },
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 37900
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 38400
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 38400
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 38900
+    },
+    {
+      "type": 0,
+      "keyCode": 81,
+      "time": 38900
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 39400
+    },
+    {
+      "type": 0,
+      "keyCode": 87,
+      "time": 39400
+    },
+    {
+      "type": 1,
+      "keyCode": 87,
+      "time": 39900
+    },
+    //宏11
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 39900
+    },
+    {
+      "type": 0,
+      "keyCode": 78,
+      "time": 39900
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 40400
+    },
+    {
+      "type": 1,
+      "keyCode": 78,
+      "time": 40400
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 40400
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 40900
+    },
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 40900
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 41400
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 41400
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 41900
+    },
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 41900
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 42400
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 42400
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 42900
+    },
+    {
+      "type": 0,
+      "keyCode": 82,
+      "time": 42900
+    },
+    {
+      "type": 1,
+      "keyCode": 82,
+      "time": 43400
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 43400
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 43900
+    },
+    //宏12
+    {
+      "type": 0,
+      "keyCode": 84,
+      "time": 43900
+    },
+    {
+      "type": 0,
+      "keyCode": 66,
+      "time": 43900
+    },
+    {
+      "type": 1,
+      "keyCode": 84,
+      "time": 44400
+    },
+    {
+      "type": 1,
+      "keyCode": 66,
+      "time": 44400
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 44400
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 44900
+    },
+    {
+      "type": 0,
+      "keyCode": 81,
+      "time": 44900
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 45400
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 45400
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 45900
+    },
+    {
+      "type": 0,
+      "keyCode": 84,
+      "time": 45900
+    },
+    {
+      "type": 1,
+      "keyCode": 84,
+      "time": 46400
+    },
+    {
+      "type": 0,
+      "keyCode": 82,
+      "time": 46400
+    },
+    {
+      "type": 1,
+      "keyCode": 82,
+      "time": 46550
+    }, // R (100ms)
+    {
+      "type": 0,
+      "keyCode": 84,
+      "time": 46550
+    },
+    {
+      "type": 1,
+      "keyCode": 84,
+      "time": 46700
+    }, // T (100ms)
+    {
+      "type": 0,
+      "keyCode": 82,
+      "time": 46700
+    },
+    {
+      "type": 1,
+      "keyCode": 82,
+      "time": 46850
+    }, // R (100ms)
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 46850
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 47000
+    }, // E (100ms)
+    {
+      "type": 0,
+      "keyCode": 87,
+      "time": 47350
+    },
+    {
+      "type": 1,
+      "keyCode": 87,
+      "time": 47850
+    },
+    //宏13
+    {
+      "type": 0,
+      "keyCode": 81,
+      "time": 47850
+    },
+    {
+      "type": 0,
+      "keyCode": 86,
+      "time": 47850
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 48350
+    },
+    {
+      "type": 1,
+      "keyCode": 86,
+      "time": 48350
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 48350
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 48850
+    },
+    {
+      "type": 0,
+      "keyCode": 81,
+      "time": 48850
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 49350
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 49350
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 49850
+    },
+    {
+      "type": 0,
+      "keyCode": 81,
+      "time": 49850
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 50350
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 50350
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 50850
+    },
+    {
+      "type": 0,
+      "keyCode": 84,
+      "time": 50850
+    },
+    {
+      "type": 1,
+      "keyCode": 84,
+      "time": 51350
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 51350
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 51850
+    },
+
+    //宏14
+    {
+      "type": 0,
+      "keyCode": 81,
+      "time": 51850
+    },
+    {
+      "type": 0,
+      "keyCode": 67,
+      "time": 51850
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 52350
+    },
+    {
+      "type": 1,
+      "keyCode": 67,
+      "time": 52350
+    },
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 52350
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 52850
+    },
+    { //G
+      "type": 0,
+      "keyCode": 84,
+      "time": 52850
+    },
+    {
+      "type": 1,
+      "keyCode": 84,
+      "time": 53350
+    },
+    { //T
+      "type": 0,
+      "keyCode": 82,
+      "time": 53350
+    },
+    {
+      "type": 1,
+      "keyCode": 82,
+      "time": 53850
+    },
+    { //R
+      "type": 0,
+      "keyCode": 69,
+      "time": 53850
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 54350
+    }, // E (100ms)
+    {
+      "type": 0,
+      "keyCode": 87,
+      "time": 54350
+    },
+    {
+      "type": 1,
+      "keyCode": 87,
+      "time": 54500
+    }, // W (100ms)
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 54500
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 54650
+    }, // E (100ms)
+    {
+      "type": 0,
+      "keyCode": 87,
+      "time": 54650
+    },
+    {
+      "type": 1,
+      "keyCode": 87,
+      "time": 54800
+    }, // W (100ms)
+    {
+      "type": 0,
+      "keyCode": 81,
+      "time": 54800
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 54950
+    }, // Q (100ms)
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 55300
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 55800
+    },
+
+    //宏15
+    {
+      "type": 0,
+      "keyCode": 81,
+      "time": 55800
+    },
+    {
+      "type": 0,
+      "keyCode": 88,
+      "time": 55800
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 56300
+    },
+    {
+      "type": 1,
+      "keyCode": 88,
+      "time": 56300
+    },
+    { //G
+      "type": 0,
+      "keyCode": 71,
+      "time": 56300
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 56800
+    },
+    { //Q
+      "type": 0,
+      "keyCode": 81,
+      "time": 56800
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 57300
+    }, // Q (100ms)
+    {
+      "type": 0,
+      "keyCode": 87,
+      "time": 57300
+    },
+    {
+      "type": 1,
+      "keyCode": 87,
+      "time": 57800
+    }, // W (100ms)
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 57800
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 58300
+    }, // E (100ms)
+    {
+      "type": 0,
+      "keyCode": 87,
+      "time": 58300
+    },
+    {
+      "type": 1,
+      "keyCode": 87,
+      "time": 58450
+    }, // W (100ms)
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 58450
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 58600
+    }, // E (100ms)
+    {
+      "type": 0,
+      "keyCode": 87,
+      "time": 58600
+    },
+    {
+      "type": 1,
+      "keyCode": 87,
+      "time": 58750
+    }, // W (100ms)
+    {
+      "type": 0,
+      "keyCode": 81,
+      "time": 58750
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 59250
+    }, // Q (100ms)
+    {
+      "type": 0,
+      "keyCode": 71,
+      "time": 59250
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 59750
+    },
+
+    //宏16
+    {
+      "type": 0,
+      "keyCode": 81,
+      "time": 59750
+    },
+    {
+      "type": 0,
+      "keyCode": 66,
+      "time": 59750
+    },
+    { //G
+      "type": 1,
+      "keyCode": 81,
+      "time": 60250
+    },
+    {
+      "type": 1,
+      "keyCode": 66,
+      "time": 60250
+    },
+    { //Q
+      "type": 0,
+      "keyCode": 71,
+      "time": 60250
+    },
+    {
+      "type": 1,
+      "keyCode": 71,
+      "time": 60750
+    },
+    { //T
+      "type": 0,
+      "keyCode": 81,
+      "time": 60750
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 61250
+    },
+    { //R
+      "type": 0,
+      "keyCode": 84,
+      "time": 61250
+    },
+    {
+      "type": 1,
+      "keyCode": 84,
+      "time": 61750
+    },
+    { //E
+      "type": 0,
+      "keyCode": 82,
+      "time": 61750
+    },
+    {
+      "type": 1,
+      "keyCode": 82,
+      "time": 62250
+    }, // R (100ms)
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 62250
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 62400
+    }, // E (100ms)
+    {
+      "type": 0,
+      "keyCode": 82,
+      "time": 62400
+    },
+    {
+      "type": 1,
+      "keyCode": 82,
+      "time": 62550
+    }, // R (100ms)
+    {
+      "type": 0,
+      "keyCode": 69,
+      "time": 62550
+    },
+    {
+      "type": 1,
+      "keyCode": 69,
+      "time": 62700
+    }, // E (100ms)
+    {
+      "type": 0,
+      "keyCode": 87,
+      "time": 62700
+    },
+    {
+      "type": 1,
+      "keyCode": 87,
+      "time": 62850
+    }, // W (100ms)
+    {
+      "type": 0,
+      "keyCode": 81,
+      "time": 63700
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 63850
+    },
+
+    //宏17
+    {
+      "type": 0,
+      "keyCode": 81,
+      "time": 63850
+    },
+    {
+      "type": 0,
+      "keyCode": 90,
+      "time": 63850
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 64350
+    },
+    {
+      "type": 1,
+      "keyCode": 90,
+      "time": 64350
+    },
+    {
+      "type": 0,
+      "keyCode": 66,
+      "time": 64350
+    },
+    {
+      "type": 1,
+      "keyCode": 66,
+      "time": 64850
+    },
+    {
+      "type": 0,
+      "keyCode": 68,
+      "time": 64850
+    },
+    {
+      "type": 1,
+      "keyCode": 68,
+      "time": 65350
+    },
+    {
+      "type": 0,
+      "keyCode": 66,
+      "time": 65350
+    },
+    {
+      "type": 1,
+      "keyCode": 66,
+      "time": 65850
+    },
+    {
+      "type": 0,
+      "keyCode": 68,
+      "time": 65850
+    },
+    {
+      "type": 1,
+      "keyCode": 68,
+      "time": 66350
+    },
+    {
+      "type": 0,
+      "keyCode": 66,
+      "time": 66350
+    },
+    {
+      "type": 1,
+      "keyCode": 66,
+      "time": 66850
+    },
+    {
+      "type": 0,
+      "keyCode": 90,
+      "time": 66850
+    },
+    {
+      "type": 1,
+      "keyCode": 90,
+      "time": 67350
+    }, // Z (500ms)
+    {
+      "type": 0,
+      "keyCode": 90,
+      "time": 67350
+    },
+    {
+      "type": 1,
+      "keyCode": 90,
+      "time": 67850
+    }, // Z (500ms)
+    {
+      "type": 0,
+      "keyCode": 90,
+      "time": 67850
+    },
+    {
+      "type": 0,
+      "keyCode": 81,
+      "time": 67850
+    }, // ZQ同时按下
+    {
+      "type": 1,
+      "keyCode": 90,
+      "time": 68350
+    },
+    {
+      "type": 1,
+      "keyCode": 81,
+      "time": 68350
+    },
+    // ================ 宏17 (QZ)BDBDB Z Z (ZQ) ================
+   
+    // ...（剩余事件保持原始时间偏移）...
+  
+  ],
+  "info": {
+    "name": "Seamless 17-Macro Sequence",
+    "description": "完全无缝衔接的17个宏序列",
+    "width": 2560,
+    "height": 1600,
+    "recordDpi": 1.5
+  }
+}
